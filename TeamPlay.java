@@ -2,7 +2,7 @@
 //작업2
 //작업3
 //작업4
-//작업6
+//작업10
 // ===================
 public class CalculatorInput {
     public static void getInputAndCalculate() {
