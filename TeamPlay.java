@@ -1,6 +1,7 @@
 //작업1
 //작업2
 //작업3
+// ===================
 public class CalculatorInput {
     public static void getInputAndCalculate() {
         Scanner scanner = new Scanner(System.in);
